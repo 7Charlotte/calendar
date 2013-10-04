@@ -13,6 +13,6 @@
 
 -(int) getMonDayWithYear:(int) y withMonth:(int)m;
 -(int) getFirstDateWithYear:(int)y withMonth:(int)m;
--(void) showCalWith:(int)y withMonth:(int) m;
+-(void) showCalWithYear:(int)y withMonth:(int) m;
 
 @end
