@@ -23,8 +23,8 @@ t1370800298
 s5623
 
 N/Users/liuxia/Documents/LearningOC/calendar/build/Debug/calendar
-t1380884165
-s16140
+t1380887562
+s16364
 
 N/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.LinkFileList
 c00000000524E614700000000000000EA
@@ -32,12 +32,12 @@ t1380868423
 s234
 
 N/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.o
-t1380882127
-s13084
+t1380887562
+s14272
 
 N/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.o
-t1380884165
-s7896
+t1380887562
+s7940
 
 N/Users/liuxia/Documents/LearningOC/calendar/calendar/calendar-Prefix.pch
 c00000000524E19E5000000000000009D
@@ -46,19 +46,19 @@ s157
 i<Foundation/Foundation.h>
 
 N/Users/liuxia/Documents/LearningOC/calendar/calendar/calendar.h
-c00000000524E868C000000000000017C
-t1380877964
-s380
+c00000000524EA2D200000000000001B4
+t1380885202
+s436
 
 N/Users/liuxia/Documents/LearningOC/calendar/calendar/calendar.m
-c00000000524E96CE00000000000007B0
-t1380882126
-s1968
+c00000000524EAC0A0000000000000833
+t1380887562
+s2099
 
 N/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m
-c00000000524E9EF500000000000005F1
-t1380884213
-s1521
+c00000000524E9F54000000000000066D
+t1380884308
+s1645
 
 N/var/folders/80/vhfjn64s6s3drfdlsn0mrq7h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/calendar-Prefix-acydecqpzpmuoietuxrhxsnzqisr/calendar-Prefix.pch.pth
 t1380868423
@@ -72,11 +72,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc30d9c78d6feb741^b3799c78d6feb741^---0#1#0#--18"Check dependencies36"9602F0DF-0618-46D2-A9FB-038D793FF259-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies960ad65ae4feb741^5a80d65ae4feb741^---0#1#0#--18"Check dependencies36"E96B3F8C-08E6-453A-9CAA-DA2105CD281F-
 
 CCompileC build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.o /Users/liuxia/Documents/LearningOC/calendar/calendar/calendar.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s402574927.148399
-e402574927.190910
+s402580362.562997
+e402580362.607753
 r1
 xCompileC
 xbuild/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.o
@@ -85,11 +85,11 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/liuxia/Documents/LearningOC/calendar/calendar/calendar.m3524264fcefeb741^7232314fcefeb741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/liuxia/Documents/LearningOC/calendar/calendar/calendar.m0000000000000000^3077"CompileC build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.o calendar/calendar.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/liuxia/Documents/LearningOC/calendar    setenv LANG en_US.US-ASCII    /Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-generated-files.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-own-target-headers.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-all-target-headers.hmap -iquote /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-project-headers.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/Debug/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/DerivedSources/x86_64 -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/DerivedSources -F/Users/liuxia/Documents/LearningOC/calendar/build/Debug -include /var/folders/80/vhfjn64s6s3drfdlsn0mrq7h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/calendar-Prefix-acydecqpzpmuoietuxrhxsnzqisr/calendar-Prefix.pch -MMD -MT dependencies -MF /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.d --serialize-diagnostics /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.dia -c /Users/liuxia/Documents/LearningOC/calendar/calendar/calendar.m -o /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.o36"90810F64-1674-43F5-A259-8F1F2799111A-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/liuxia/Documents/LearningOC/calendar/calendar/calendar.m4549908ae3feb741^1c959b8ae3feb741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/liuxia/Documents/LearningOC/calendar/calendar/calendar.m0000000000000000^3077"CompileC build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.o calendar/calendar.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/liuxia/Documents/LearningOC/calendar    setenv LANG en_US.US-ASCII    /Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-generated-files.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-own-target-headers.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-all-target-headers.hmap -iquote /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-project-headers.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/Debug/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/DerivedSources/x86_64 -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/DerivedSources -F/Users/liuxia/Documents/LearningOC/calendar/build/Debug -include /var/folders/80/vhfjn64s6s3drfdlsn0mrq7h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/calendar-Prefix-acydecqpzpmuoietuxrhxsnzqisr/calendar-Prefix.pch -MMD -MT dependencies -MF /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.d --serialize-diagnostics /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.dia -c /Users/liuxia/Documents/LearningOC/calendar/calendar/calendar.m -o /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.o36"D9F304C6-1072-496C-9DE8-147DACCE240B-
 
 CCompileC build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.o /Users/liuxia/Documents/LearningOC/calendar/calendar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s402577016.621855
-e402577016.663662
+s402580362.563004
+e402580362.604074
 r1
 xCompileC
 xbuild/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.o
@@ -98,21 +98,21 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-o/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m:29:38: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]
+o/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m:30:38: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]
 o                [cal showCalWithYear:_year withMonth:i];
 o                ~                    ^~~~~
 o1 warning generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/liuxia/Documents/LearningOC/calendar/calendar/main.m556d9f78d6feb741^58e6a978d6feb741^-297"/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m:29:38: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]                [cal showCalWithYear:_year withMonth:i];                ~                    ^~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@78"Implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int'-402577016#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@75"file://localhost/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m0000000000000000^28#37#28#37#808#0#14"Semantic Issue2(3@75"file://localhost/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m0000000000000000^28#37#28#42#808#0#3@75"file://localhost/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m0000000000000000^28#16#28#17#787#0#-0#0#0#-19%DVTDocumentLocation4@75"file://localhost/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m0000000000000000^3053"CompileC build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.o calendar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/liuxia/Documents/LearningOC/calendar    setenv LANG en_US.US-ASCII    /Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-generated-files.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-own-target-headers.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-all-target-headers.hmap -iquote /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-project-headers.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/Debug/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/DerivedSources/x86_64 -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/DerivedSources -F/Users/liuxia/Documents/LearningOC/calendar/build/Debug -include /var/folders/80/vhfjn64s6s3drfdlsn0mrq7h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/calendar-Prefix-acydecqpzpmuoietuxrhxsnzqisr/calendar-Prefix.pch -MMD -MT dependencies -MF /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.dia -c /Users/liuxia/Documents/LearningOC/calendar/calendar/main.m -o /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.o36"3422E453-FA3A-4219-91FD-57727C1478DC-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/liuxia/Documents/LearningOC/calendar/calendar/main.m3449908ae3feb741^cfa39a8ae3feb741^-297"/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m:30:38: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int' [-Wshorten-64-to-32]                [cal showCalWithYear:_year withMonth:i];                ~                    ^~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@78"Implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'int'-402580362#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@75"file://localhost/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m0000000000000000^29#37#29#37#861#0#14"Semantic Issue2(3@75"file://localhost/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m0000000000000000^29#37#29#42#861#0#3@75"file://localhost/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m0000000000000000^29#16#29#17#840#0#-0#0#0#-19%DVTDocumentLocation4@75"file://localhost/Users/liuxia/Documents/LearningOC/calendar/calendar/main.m0000000000000000^3053"CompileC build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.o calendar/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/liuxia/Documents/LearningOC/calendar    setenv LANG en_US.US-ASCII    /Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode4.6.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-generated-files.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-own-target-headers.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-all-target-headers.hmap -iquote /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/calendar-project-headers.hmap -I/Users/liuxia/Documents/LearningOC/calendar/build/Debug/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/DerivedSources/x86_64 -I/Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/DerivedSources -F/Users/liuxia/Documents/LearningOC/calendar/build/Debug -include /var/folders/80/vhfjn64s6s3drfdlsn0mrq7h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/calendar-Prefix-acydecqpzpmuoietuxrhxsnzqisr/calendar-Prefix.pch -MMD -MT dependencies -MF /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.dia -c /Users/liuxia/Documents/LearningOC/calendar/calendar/main.m -o /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/main.o36"71B319B4-063F-4586-BAA1-582D09FD3348-
 
 CLd /Users/liuxia/Documents/LearningOC/calendar/build/Debug/calendar normal x86_64
-s402577016.670656
-e402577016.695221
+s402580362.614752
+e402580362.743015
 r1
 xLd
 x/Users/liuxia/Documents/LearningOC/calendar/build/Debug/calendar
 xnormal
 xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Link /Users/liuxia/Documents/LearningOC/calendar/build/Debug/calendaracc9ab78d6feb741^ecfab178d6feb741^---0#0#0#--762"Ld build/Debug/calendar normal x86_64    cd /Users/liuxia/Documents/LearningOC/calendar    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode4.6.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/liuxia/Documents/LearningOC/calendar/build/Debug -F/Users/liuxia/Documents/LearningOC/calendar/build/Debug -filelist /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/liuxia/Documents/LearningOC/calendar/build/Debug/calendar36"A6E828E3-27CC-46F6-88F3-928E504319E4-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Link /Users/liuxia/Documents/LearningOC/calendar/build/Debug/calendare1799d8ae3feb741^d95fbe8ae3feb741^---0#0#0#--762"Ld build/Debug/calendar normal x86_64    cd /Users/liuxia/Documents/LearningOC/calendar    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode4.6.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode4.6.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/liuxia/Documents/LearningOC/calendar/build/Debug -F/Users/liuxia/Documents/LearningOC/calendar/build/Debug -filelist /Users/liuxia/Documents/LearningOC/calendar/build/calendar.build/Debug/calendar.build/Objects-normal/x86_64/calendar.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -o /Users/liuxia/Documents/LearningOC/calendar/build/Debug/calendar36"52538D6D-292C-4D94-ACF1-B21A8A78D3FB-
 
 CProcessPCH /Users/liuxia/Library/Developer/Xcode/DerivedData/calendar-eczefpyahaxvpmdygjexnmhdmftl/Index/PrecompiledHeaders/calendar-Prefix-anulsrgojugdkddgrwjlerltsqpi_ast/calendar-Prefix.pch.pth calendar/calendar-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
 r0

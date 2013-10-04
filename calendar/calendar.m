@@ -59,7 +59,7 @@
     //取模结果减一得到当月第一天是星期几。
     int d=[self getFirstDateWithYear:y withMonth:m];
     
-    //d需要减1，因为第一天是Sunday
+    //d is the weekday
     for (int i=0; i<d; i++) {
         printf("    ");
     }
@@ -78,9 +78,15 @@
         }
     }
     printf("\n\n");
-    
-    
-    
-
 }
+
+-(BOOL) inputCheckWithYear:(int)y withMonth:(int)m
+{
+    if ( month > 12 || month < 1 ) {
+        NSLog(@"Invalid input.");
+        return NO;
+    }
+    return YES;
+}
+
 @end

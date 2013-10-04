@@ -13,6 +13,9 @@
 
 -(int) getMonDayWithYear:(int) y withMonth:(int)m;
 -(int) getFirstDateWithYear:(int)y withMonth:(int)m;
+
 -(void) showCalWithYear:(int)y withMonth:(int) m;
+
+-(BOOL) inputCheckWithYear:(int) y withMonth:(int) m;
 
 @end
