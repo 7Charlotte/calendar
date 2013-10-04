@@ -10,6 +10,7 @@
 		511A8A8017FE516500D58CFC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 511A8A7F17FE516500D58CFC /* Foundation.framework */; };
 		511A8A8317FE516500D58CFC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 511A8A8217FE516500D58CFC /* main.m */; };
 		511A8A8717FE516500D58CFC /* calendar.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 511A8A8617FE516500D58CFC /* calendar.1 */; };
+		511A8A8F17FE6DD200D58CFC /* calendar.m in Sources */ = {isa = PBXBuildFile; fileRef = 511A8A8E17FE6DD200D58CFC /* calendar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		511A8A8217FE516500D58CFC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		511A8A8517FE516500D58CFC /* calendar-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "calendar-Prefix.pch"; sourceTree = "<group>"; };
 		511A8A8617FE516500D58CFC /* calendar.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = calendar.1; sourceTree = "<group>"; };
+		511A8A8D17FE6DD200D58CFC /* calendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = calendar.h; sourceTree = "<group>"; };
+		511A8A8E17FE6DD200D58CFC /* calendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = calendar.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +77,8 @@
 			isa = PBXGroup;
 			children = (
 				511A8A8217FE516500D58CFC /* main.m */,
+				511A8A8D17FE6DD200D58CFC /* calendar.h */,
+				511A8A8E17FE6DD200D58CFC /* calendar.m */,
 				511A8A8617FE516500D58CFC /* calendar.1 */,
 				511A8A8417FE516500D58CFC /* Supporting Files */,
 			);
@@ -140,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				511A8A8317FE516500D58CFC /* main.m in Sources */,
+				511A8A8F17FE6DD200D58CFC /* calendar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -6,17 +6,23 @@
 //  Copyright (c) 2013年 Charlotte. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import "calendar.h"
+
 
 int main(int argc, const char * argv[])
 {
 
     @autoreleasepool {
         
-        // insert code here...
-        NSLog(@"Hello, World!");
+        calendar *cal=[[calendar alloc]init];
+        cal.year=2013;
+        cal.month=10;
+        int days=[cal getFirstDateWithYear:[cal year] withMonth:[cal month]];
+        NSLog(@"%d",days);
         
-    }
+        [cal showCalWith:[cal year] withMonth:[cal month]];
+        
+        }
     return 0;
 }
 
